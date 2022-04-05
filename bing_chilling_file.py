@@ -5,4 +5,4 @@ while True:
 
     print("BING CHILLING")
 
-    print("John Xina")
+    print("Jonas Ksina")
