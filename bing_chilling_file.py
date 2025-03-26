@@ -6,3 +6,5 @@ while True:
     print("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 
     print("Jonas Ksina")
+
+    print("5 dideli sprogimai")
